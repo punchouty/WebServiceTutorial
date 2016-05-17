@@ -16,7 +16,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.store.domain.Store;
 import com.store.service.StoreService;
-import com.store.util.MyException;
 
 @RestController
 @RequestMapping("/store")
